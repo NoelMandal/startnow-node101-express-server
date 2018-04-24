@@ -1,0 +1,1 @@
+This project takes the same JSON data used in the San Diego Top Spots project and implements the data using NODEJS. Creates routes on 'Localhost' server to display text and JSON data provided. 
